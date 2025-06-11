@@ -1,0 +1,22 @@
+ASTEROID GAME - STARTUP ROUTINE
+===============================
+
+Every time I start coding:
+
+1. Open WSL terminal
+
+2. Activate virtual environment:
+   source asteroid-game/bin/activate
+   (Look for "(asteroid-game)" at start of prompt)
+
+3. Go to project folder:
+   cd asteroids_game
+
+4. Ready to code!
+
+BACKUP ROUTINE:
+- git add .
+- git commit -m "describe changes"
+- git push
+
+DON'T FORGET TO PUSH! (That's what went wrong last time)
